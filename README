@@ -1,0 +1,16 @@
+COMPLEX NEWTON
+==============
+
+Nicholas Walker
+
+Purpose:
+
+This program generates a random complex-valued polynomial and then uses Newton's method to generate a fractal pattern. The displayed plot is an animation of the successive results from each iteration.
+
+Usage:
+
+Simply run the program.
+
+Development:
+
+I do not intend to add much more to the program or comment the code. This was more of a proof of concept than anything else, but turned out pretty cool.
